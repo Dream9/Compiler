@@ -1,3 +1,3 @@
 # Compiler
 a simple compiler
-基础编译原理梳理
+编译原理梳理
