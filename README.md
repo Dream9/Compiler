@@ -1,3 +1,4 @@
 # Compiler
-a simple compiler
-编译原理梳理
+C compiler
+本质是一个解释器
+编译原理
